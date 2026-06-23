@@ -1,0 +1,155 @@
+{
+ "controller": "fixed nominal + discrete TVLQR, no replan (n5/n6-equivalent architecture)",
+ "n_success": 18,
+ "n_ic": 24,
+ "seed": 12345,
+ "commit_sha": "973cd5f5f2f0960ddf6943cf721ae706e9eb2db9",
+ "git_dirty": false,
+ "nominal_sha256": "fe192b9eefb19540af782ef8163d1ce2b54ef76faf94cfa9e789c95c367c5b13",
+ "results": [
+  {
+   "tag": 0,
+   "success": true,
+   "max_force_demanded": 27.143,
+   "track_ok": true
+  },
+  {
+   "tag": 1,
+   "success": true,
+   "max_force_demanded": 27.953,
+   "track_ok": true
+  },
+  {
+   "tag": 2,
+   "success": false,
+   "max_force_demanded": 35881760.506,
+   "track_ok": false
+  },
+  {
+   "tag": 3,
+   "success": true,
+   "max_force_demanded": 27.051,
+   "track_ok": true
+  },
+  {
+   "tag": 4,
+   "success": true,
+   "max_force_demanded": 27.18,
+   "track_ok": true
+  },
+  {
+   "tag": 5,
+   "success": false,
+   "max_force_demanded": 20156792.239,
+   "track_ok": false
+  },
+  {
+   "tag": 6,
+   "success": true,
+   "max_force_demanded": 27.374,
+   "track_ok": true
+  },
+  {
+   "tag": 7,
+   "success": true,
+   "max_force_demanded": 27.023,
+   "track_ok": true
+  },
+  {
+   "tag": 8,
+   "success": false,
+   "max_force_demanded": 31200842.306,
+   "track_ok": false
+  },
+  {
+   "tag": 9,
+   "success": true,
+   "max_force_demanded": 27.171,
+   "track_ok": true
+  },
+  {
+   "tag": 10,
+   "success": true,
+   "max_force_demanded": 27.141,
+   "track_ok": true
+  },
+  {
+   "tag": 11,
+   "success": true,
+   "max_force_demanded": 27.006,
+   "track_ok": true
+  },
+  {
+   "tag": 12,
+   "success": true,
+   "max_force_demanded": 27.15,
+   "track_ok": true
+  },
+  {
+   "tag": 13,
+   "success": true,
+   "max_force_demanded": 27.142,
+   "track_ok": true
+  },
+  {
+   "tag": 14,
+   "success": true,
+   "max_force_demanded": 27.126,
+   "track_ok": true
+  },
+  {
+   "tag": 15,
+   "success": false,
+   "max_force_demanded": 35063632.582,
+   "track_ok": false
+  },
+  {
+   "tag": 16,
+   "success": true,
+   "max_force_demanded": 27.405,
+   "track_ok": true
+  },
+  {
+   "tag": 17,
+   "success": true,
+   "max_force_demanded": 27.03,
+   "track_ok": true
+  },
+  {
+   "tag": 18,
+   "success": false,
+   "max_force_demanded": 24685760.644,
+   "track_ok": false
+  },
+  {
+   "tag": 19,
+   "success": false,
+   "max_force_demanded": 24509977.721,
+   "track_ok": false
+  },
+  {
+   "tag": 20,
+   "success": true,
+   "max_force_demanded": 27.152,
+   "track_ok": true
+  },
+  {
+   "tag": 21,
+   "success": true,
+   "max_force_demanded": 69.825,
+   "track_ok": true
+  },
+  {
+   "tag": 22,
+   "success": true,
+   "max_force_demanded": 26.992,
+   "track_ok": true
+  },
+  {
+   "tag": 23,
+   "success": true,
+   "max_force_demanded": 33.665,
+   "track_ok": true
+  }
+ ]
+}

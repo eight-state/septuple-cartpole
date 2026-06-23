@@ -1,0 +1,97 @@
+[CL-COMPOSITE n=7] uniform-policy gate  n_ic=24 seed=12345 sigma=0.02  solver_tier={'CARTPOLE_MU_STRATEGY': 'adaptive', 'CARTPOLE_ACCEPTABLE_TOL': '1e-4', 'CARTPOLE_ACCEPTABLE_ITER': '8'}
+   {"tag": 5, "stageA_solve_s": 638.5, "stage": "A_replan_t0", "handoff_dev_rad": 0.00020009, "steer_solve_s": 135.6, "success": true, "peakF": 31.931, "max_force_demanded": 31.931, "saturated": false, "track_ok": true}
+   {"tag": 4, "stageA_solve_s": 1166.3, "stage": "A_replan_t0", "handoff_dev_rad": 0.00020008, "steer_solve_s": 134.9, "success": true, "peakF": 31.45, "max_force_demanded": 31.45, "saturated": false, "track_ok": true}
+   {"tag": 8, "stageA_solve_s": 1329.1, "stage": "A_replan_t0", "handoff_dev_rad": 0.00020007, "steer_solve_s": 146.7, "success": true, "peakF": 31.575, "max_force_demanded": 31.575, "saturated": false, "track_ok": true}
+   {"tag": 6, "stageA_solve_s": 1632.0, "stage": "A_replan_t0", "handoff_dev_rad": 0.00020009, "steer_solve_s": 153.4, "success": true, "peakF": 31.942, "max_force_demanded": 31.942, "saturated": false, "track_ok": true}
+   {"tag": 2, "stageA_solve_s": 1714.2, "stage": "A_replan_t0", "handoff_dev_rad": 0.00020008, "steer_solve_s": 153.6, "success": true, "peakF": 31.909, "max_force_demanded": 31.909, "saturated": false, "track_ok": true}
+   {"tag": 0, "stageA_solve_s": 1871.0, "stage": "A_replan_t0", "handoff_dev_rad": 0.0002001, "steer_solve_s": 155.3, "success": true, "peakF": 32.276, "max_force_demanded": 32.276, "saturated": false, "track_ok": true}
+   {"tag": 1, "stageA_solve_s": 2377.9, "stage": "A_replan_t0", "handoff_dev_rad": 0.00020007, "steer_solve_s": 122.2, "success": true, "peakF": 32.11, "max_force_demanded": 32.11, "saturated": false, "track_ok": true}
+   {"tag": 7, "stageA_solve_s": 2439.9, "stage": "A_replan_t0", "handoff_dev_rad": 0.00020009, "steer_solve_s": 143.3, "success": true, "peakF": 31.952, "max_force_demanded": 31.952, "saturated": false, "track_ok": true}
+   {"tag": 9, "stageA_solve_s": 2498.8, "stage": "A_replan_t0", "handoff_dev_rad": 0.00020013, "steer_solve_s": 145.9, "success": true, "peakF": 32.465, "max_force_demanded": 32.465, "saturated": false, "track_ok": true}
+   {"tag": 3, "stageA_solve_s": 2857.1, "stage": "A_replan_t0", "handoff_dev_rad": 0.00020009, "steer_solve_s": 142.1, "success": true, "peakF": 32.261, "max_force_demanded": 32.261, "saturated": false, "track_ok": true}
+   {"tag": 15, "stageA_solve_s": 779.7, "stage": "A_replan_t0", "handoff_dev_rad": 0.0002001, "steer_solve_s": 143.9, "success": true, "peakF": 32.229, "max_force_demanded": 32.229, "saturated": false, "track_ok": true}
+   {"tag": 10, "stageA_solve_s": 2146.1, "stage": "A_replan_t0", "handoff_dev_rad": 0.00020008, "steer_solve_s": 131.6, "success": true, "peakF": 31.954, "max_force_demanded": 31.954, "saturated": false, "track_ok": true}
+   {"tag": 13, "stageA_solve_s": 1267.2, "stage": "A_replan_t0", "handoff_dev_rad": 0.00020015, "steer_solve_s": 154.6, "success": true, "peakF": 31.932, "max_force_demanded": 31.932, "saturated": false, "track_ok": true}
+   {"tag": 12, "stageA_solve_s": 1683.9, "stage": "A_replan_t0", "handoff_dev_rad": 0.00020007, "steer_solve_s": 163.9, "success": true, "peakF": 31.656, "max_force_demanded": 31.656, "saturated": false, "track_ok": true}
+   {"tag": 11, "stageA_solve_s": 1994.4, "stage": "A_replan_t0", "handoff_dev_rad": 0.00020009, "steer_solve_s": 173.5, "success": true, "peakF": 31.967, "max_force_demanded": 31.967, "saturated": false, "track_ok": true}
+   {"tag": 16, "stageA_solve_s": 833.8, "stage": "A_replan_t0", "handoff_dev_rad": 0.00020009, "steer_solve_s": 161.1, "success": true, "peakF": 31.291, "max_force_demanded": 31.291, "saturated": false, "track_ok": true}
+   {"tag": 17, "stageA_solve_s": 1140.7, "stage": "A_replan_t0", "handoff_dev_rad": 0.00020009, "steer_solve_s": 202.9, "success": true, "peakF": 31.666, "max_force_demanded": 31.666, "saturated": false, "track_ok": true}
+   {"tag": 14, "stageA_solve_s": 2068.4, "stage": "A_replan_t0", "handoff_dev_rad": 0.00020013, "steer_solve_s": 149.2, "success": true, "peakF": 32.414, "max_force_demanded": 32.414, "saturated": false, "track_ok": true}
+   {"tag": 21, "stageA_solve_s": 1304.1, "stage": "A_replan_t0", "handoff_dev_rad": 0.00020012, "steer_solve_s": 108.2, "success": true, "peakF": 32.214, "max_force_demanded": 32.214, "saturated": false, "track_ok": true}
+   {"tag": 23, "stageA_solve_s": 1035.6, "stage": "A_replan_t0", "handoff_dev_rad": 0.00020008, "steer_solve_s": 105.7, "success": true, "peakF": 32.423, "max_force_demanded": 32.423, "saturated": false, "track_ok": true}
+   {"tag": 20, "stageA_solve_s": 1446.7, "stage": "A_replan_t0", "handoff_dev_rad": 0.00020008, "steer_solve_s": 98.0, "success": true, "peakF": 32.144, "max_force_demanded": 32.144, "saturated": false, "track_ok": true}
+   {"tag": 22, "stageA_solve_s": 1181.9, "stage": "A_replan_t0", "handoff_dev_rad": 0.00020009, "steer_solve_s": 118.6, "success": true, "peakF": 31.612, "max_force_demanded": 31.612, "saturated": false, "track_ok": true}
+   {"tag": 18, "stageA_solve_s": 1864.5, "stage": "A_replan_t0", "handoff_dev_rad": 0.00020007, "steer_solve_s": 103.0, "success": true, "peakF": 31.544, "max_force_demanded": 31.544, "saturated": false, "track_ok": true}
+   {"tag": 19, "stageA_solve_s": 2475.2, "stage": "A_replan_t0", "handoff_dev_rad": 0.00020007, "steer_solve_s": 70.0, "success": true, "peakF": 31.884, "max_force_demanded": 31.884, "saturated": false, "track_ok": true}
+
+******************************************************************************
+This program contains Ipopt, a library for large-scale nonlinear optimization.
+ Ipopt is released as open source code under the Eclipse Public License (EPL).
+         For more information visit https://github.com/coin-or/Ipopt
+******************************************************************************
+
+
+******************************************************************************
+This program contains Ipopt, a library for large-scale nonlinear optimization.
+ Ipopt is released as open source code under the Eclipse Public License (EPL).
+         For more information visit https://github.com/coin-or/Ipopt
+******************************************************************************
+
+
+******************************************************************************
+This program contains Ipopt, a library for large-scale nonlinear optimization.
+ Ipopt is released as open source code under the Eclipse Public License (EPL).
+         For more information visit https://github.com/coin-or/Ipopt
+******************************************************************************
+
+
+******************************************************************************
+This program contains Ipopt, a library for large-scale nonlinear optimization.
+ Ipopt is released as open source code under the Eclipse Public License (EPL).
+         For more information visit https://github.com/coin-or/Ipopt
+******************************************************************************
+
+
+******************************************************************************
+This program contains Ipopt, a library for large-scale nonlinear optimization.
+ Ipopt is released as open source code under the Eclipse Public License (EPL).
+         For more information visit https://github.com/coin-or/Ipopt
+******************************************************************************
+
+
+******************************************************************************
+This program contains Ipopt, a library for large-scale nonlinear optimization.
+ Ipopt is released as open source code under the Eclipse Public License (EPL).
+         For more information visit https://github.com/coin-or/Ipopt
+******************************************************************************
+
+
+******************************************************************************
+This program contains Ipopt, a library for large-scale nonlinear optimization.
+ Ipopt is released as open source code under the Eclipse Public License (EPL).
+         For more information visit https://github.com/coin-or/Ipopt
+******************************************************************************
+
+
+******************************************************************************
+This program contains Ipopt, a library for large-scale nonlinear optimization.
+ Ipopt is released as open source code under the Eclipse Public License (EPL).
+         For more information visit https://github.com/coin-or/Ipopt
+******************************************************************************
+
+
+******************************************************************************
+This program contains Ipopt, a library for large-scale nonlinear optimization.
+ Ipopt is released as open source code under the Eclipse Public License (EPL).
+         For more information visit https://github.com/coin-or/Ipopt
+******************************************************************************
+
+
+******************************************************************************
+This program contains Ipopt, a library for large-scale nonlinear optimization.
+ Ipopt is released as open source code under the Eclipse Public License (EPL).
+         For more information visit https://github.com/coin-or/Ipopt
+******************************************************************************
+
+[CL-COMPOSITE n=7] 24/24 success  max_force_demanded=32.5N n_saturated_ics=0 (5660s)
+saved <REPO>\results\clvalidate_n7_composite_seed12345.json

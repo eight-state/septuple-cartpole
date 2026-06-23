@@ -1,0 +1,14 @@
+{
+ "tag": 0,
+ "stageA_solve_s": 713.7,
+ "stage": "B_preroll",
+ "stageB_solve_s": 1281.2,
+ "handoff_dev_rad": 0.00020013,
+ "steer_solve_s": 292.1,
+ "success": true,
+ "peakF": 32.207,
+ "max_force_demanded": 32.207,
+ "saturated": false,
+ "track_ok": true,
+ "demonstration": "stage-A budget artificially reduced to max_iter=10 to force the stage-B fallback; NOT a validation artifact; excluded from all counts"
+}
