@@ -1,7 +1,7 @@
 # Septuple Cart-Pole: an open-source, code-reproducible n=7 cart swing-up + balance artifact
 
 This repo extends the n=5 release at
-https://github.com/nzalexgarciagil-ctrl/quintuple-cartpole and the n=6 release at
+https://github.com/eight-state/quintuple-cartpole and the n=6 release at
 https://github.com/eight-state/sextuple-cartpole to **seven links**, and unlike
 those it exists because an internal adversarial research program had concluded
 n=7 was "~99% impossible, mechanism-confirmed" for a single 150 N cart, and
@@ -31,7 +31,7 @@ boundary.
 > formal robustness proof, and the perturbed-IC gate uses a heavier controller
 > than n=5/n=6 needed (per-IC replanning; see "What is different at n=7").
 
-![septuple swing-up + balance](results/demo_septuple.gif)
+![n=7-link cart-pole swing-up and balance](results/demo_septuple.gif)
 
 ## Headline numbers
 
@@ -201,4 +201,4 @@ docs/METHOD.md         # what was new at n=7, full account
 
 ## License
 
-MIT.
+MIT (see [LICENSE](LICENSE)). © 2026 Alex Garcia Gil.

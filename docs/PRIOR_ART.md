@@ -8,7 +8,7 @@ Davison 2006 base-torque stabilization to n=7, the unverified quintuple
 video, Kotelovych 2024 Isaac Sim n=5 balance, yacine's 2026-06-09 public RL
 n=6 post) live in the sibling releases:
 
-- n=5: https://github.com/nzalexgarciagil-ctrl/quintuple-cartpole
+- n=5: https://github.com/eight-state/quintuple-cartpole
 - n=6: https://github.com/eight-state/sextuple-cartpole (docs/PRIOR_ART.md)
 
 What changes at n=7:
