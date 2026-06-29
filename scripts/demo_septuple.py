@@ -72,8 +72,10 @@ def main() -> int:
     for v in in_set:
         run = run + 1 if v else 0
         best = max(best, run)
-    ok = best >= int(HOLD_S / dt) and np.max(np.abs(x_log[:, 0])) <= \
-        spec.track_half_length_m
+    # Exact 5.0 s hold: elapsed is (best-1) ticks, matching the gate scripts
+    # and rollout.static_hold_rollout (not the 4.999 s of best >= int(HOLD_S/dt)).
+    ok = max(0, best - 1) * dt >= HOLD_S - 1e-9 and \
+        np.max(np.abs(x_log[:, 0])) <= spec.track_half_length_m
     print(f"[demo n={n}] hold {best*dt:.1f} s, peak force "
           f"{np.abs(u_log).max():.1f} N -> {'PASS' if ok else 'FAIL'}")
     assert ok, "demo rollout failed the predicate; refusing to render"
